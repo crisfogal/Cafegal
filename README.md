@@ -3,7 +3,7 @@
 GRAB A CUP OF [CAFE GAL](https://github.com/crisfogal/Cafegal.git
 ) to run.
 
-IBUSCANDO COSAS.
+BUSCANDO COSAS.
 
 ```sh
 $ cd dillinger
